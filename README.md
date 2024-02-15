@@ -11,3 +11,5 @@ https://ml2-developer.magicleap.com/?_gl=1*4v733n*_ga*NTY3MDg4OTg3LjE3MDY5MDg4OT
 https://forums.unrealengine.com/u/Vcode23/notifications
 
 https://virtualsmartbank.com
+
+# alexa-alexa-skills-kit-sdk-for-nodejs Alexa skill https://developer.amazon.com/alexa/console/ask/build/custom/amzn1.ask.skill.6f7ef786-55bb-4dd2-b8d8-b29138ca8b8a/development/ar_SA/dashboard Alexa Product ID - amzn1.adg.product.67868ee4-5c3e-400f-a393-5bf2264e6784
